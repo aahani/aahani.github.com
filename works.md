@@ -1,3 +1,10 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+
 ## accomplished projects
 see my works here:
 [webbylab](http://webbylab.ir/works/)
